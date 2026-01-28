@@ -30,16 +30,16 @@ Så här kör man projektet
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Loggbok
-  Dag 1 - 3:
-  Fick klickfunktionen på stolarna att fungera och lade till selected‑klassen.
-  Dag 4-7:
-  Implementerade räkning av valda stolar och dynamisk prisuppdatering.
-  Dag 8-12:
-  Skapade JSON‑server och lade in filmer i db.json. Hämtade filmerna med fetch och fyllde dropdownen.
-  Dag 14-15:
-  Delade upp koden i moduler och skapade Movie‑klassen. Fixade småbuggar.
-  Dag 18:
-  La till en READMEfil och publicerade projektet på GitHub och aktiverade GitHub Pages.
+  -Dag 1 - 3:
+    Fick klickfunktionen på stolarna att fungera och lade till selected‑klassen.
+  -Dag 4-7:
+    Implementerade räkning av valda stolar och dynamisk prisuppdatering.
+  -Dag 8-12:
+    Skapade JSON‑server och lade in filmer i db.json. Hämtade filmerna med fetch och fyllde dropdownen.
+  -Dag 14-15:
+    Delade upp koden i moduler och skapade Movie‑klassen. Fixade småbuggar.
+  -Dag 18:
+    La till en READMEfil och publicerade projektet på GitHub och aktiverade GitHub Pages.
 
 
 
