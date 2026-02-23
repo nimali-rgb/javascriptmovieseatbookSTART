@@ -1,0 +1,25 @@
+{
+  "name": "javascriptmovieseatbookstart",
+  "version": "1.0.0",
+  "description": "Movie Seat Booking – JavaScript Project\r Detta projekt är en JavaScript‑applikation där användaren kan välja en film, markera lediga stolar och se totalpriset uppdateras automatiskt. \r Filmerna hämtas från en lokal JSON‑server och koden är uppdelad i moduler för tydlighet och struktur.",
+  "homepage": "https://github.com/nimali-rgb/javascriptmovieseatbookSTART#readme",
+  "bugs": {
+    "url": "https://github.com/nimali-rgb/javascriptmovieseatbookSTART/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimali-rgb/javascriptmovieseatbookSTART.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "globals": "^17.3.0"
+  }
+}
